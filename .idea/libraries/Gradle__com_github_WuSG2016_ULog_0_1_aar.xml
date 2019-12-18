@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.WuSG2016:ULog:0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6eaa47084a2b5231485ce9d97b3a2f68/ULog-0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6eaa47084a2b5231485ce9d97b3a2f68/ULog-0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.WuSG2016/ULog/0.1/9ccad357462bfa96d13d32b526d202f3d8af7a08/ULog-0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

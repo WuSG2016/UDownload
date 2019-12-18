@@ -1,0 +1,2 @@
+include ':app',':udownloadlib'
+rootProject.name = 'UDownload'
